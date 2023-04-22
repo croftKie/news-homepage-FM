@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
   <link rel="stylesheet" href="css/style.css">
+  <script type="module" src="js/main.js"></script>
   <title>Frontend Mentor | News homepage</title>
 </head>
 <body>
@@ -12,6 +13,7 @@
   <div class="container">
     <div class="navbar">
       <img src="assets/images/logo.svg" alt="" class="icon">
+      <img class ="burger hidden" src="assets/images/icon-menu.svg" alt="">
       <div class="nav">
         <button>Home</button>
         <button>New</button>
@@ -76,10 +78,18 @@
         </div>
       </div>
     </div>
-    <div class="attribution">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a href="#">Your Name Here</a>.
-    </div>
+  </div>
+
+
+  <div class="popout hidden">
+    <img src="assets/images/icon-menu-close.svg" alt="">
+      <div class="nav">
+        <button>Home</button>
+        <button>New</button>
+        <button>Popular</button>
+        <button>Trending</button>
+        <button>Categories</button>
+      </div>
   </div>
 
 </body>
