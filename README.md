@@ -31,9 +31,7 @@ The project is both desktop and mobile friendly and provides interactive element
 ![](./assets/screenshots/mobile-active.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://croftkie.github.io/news-homepage-FM/)
 
 ## My process
 
