@@ -1,13 +1,14 @@
 ## News Website Homepage
 
 This is a component project for the homepage of a news / blog website.
+[Live Site](https://croftkie.github.io/news-homepage-FM/)
+
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -31,7 +32,6 @@ The project is both desktop and mobile friendly and provides interactive element
 ![](./assets/screenshots/mobile-active.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://croftkie.github.io/news-homepage-FM/)
 
 ## My process
 
@@ -47,6 +47,6 @@ The project is both desktop and mobile friendly and provides interactive element
 ## Author
 
 Kieran Croft
-- Website - [Add your name here](https://www.your-site.com)
+
 
 
